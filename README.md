@@ -2,7 +2,7 @@
 
 <br/>
 
-<div align="center">
+<div align="center" border-color-left="blue">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3200&pause=900&color=5FC8E8&center=true&vCenter=true&width=600&lines=CS+Student+%40+HEH+Mons%2C+Belgium;ETH+Oxford+2025+%26+2026;React+%7C+TypeScript+%7C+Solidity;Building+interfaces+that+feel+alive)](https://git.io/typing-svg)
 
@@ -47,8 +47,8 @@
 ### STATS
 
 <div align="center">
-  <img height="158" src="https://github-readme-stats.vercel.app/api?username=spidermiriki&show_icons=true&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&icon_color=5fc8e8&text_color=ffffff&count_private=true&cache_seconds=1800" />
-  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidermiriki&layout=compact&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&text_color=ffffff&langs_count=6&cache_seconds=1800" />
+  <img height="158" src="https://github-readme-stats-three-ruddy-26.vercel.app/api?username=spidermiriki&show_icons=true&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&icon_color=5fc8e8&text_color=ffffff&count_private=true&cache_seconds=1800" />
+  <img height="158" src="https://github-readme-stats-three-ruddy-26.vercel.app/api/top-langs/?username=spidermiriki&layout=compact&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&text_color=ffffff&langs_count=6&cache_seconds=1800" />
 </div>
 
 ---

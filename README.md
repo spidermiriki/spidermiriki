@@ -1,8 +1,11 @@
 <img width="100%" src="./assets/header.svg" />
+<table width="100%" cellspacing="0" cellpadding="0"><tr>
+<td width="3" bgcolor="#5fc8e8"></td>
+<td>
 
 <br/>
 
-<div align="center" border-color-left="blue">
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3200&pause=900&color=5FC8E8&center=true&vCenter=true&width=600&lines=CS+Student+%40+HEH+Mons%2C+Belgium;ETH+Oxford+2025+%26+2026;React+%7C+TypeScript+%7C+Solidity;Building+interfaces+that+feel+alive)](https://git.io/typing-svg)
 
@@ -73,4 +76,9 @@
 
 </div>
 
+<br/>
+
+</td>
+<td width="3" bgcolor="#5fc8e8"></td>
+</tr></table>
 <img width="100%" src="./assets/footer.svg" />

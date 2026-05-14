@@ -1,73 +1,80 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,55:0a1628,100:00e5ff&height=170&section=header&text=SPIDERMIRIKI&fontSize=54&fontColor=00e5ff&animation=fadeIn&fontAlignY=58&desc=Francisco%20Homero%20Derouck%20Arredondo&descAlignY=78&descColor=888888&descSize=13" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=130&text=SPIDERMIRIKI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Francisco%20Homero%20Derouck%20Arredondo&descAlignY=78&descColor=5fc8e8&descSize=13" />
+
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=5fc8e8&height=3" />
+
+<br/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=620&lines=CS+Student+%40+HEH+Mons%2C+Belgium;ETH+Oxford+2025+%26+2026;React+%7C+TypeScript+%7C+Solidity;Building+interfaces+that+feel+alive)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=3200&pause=900&color=5FC8E8&center=true&vCenter=true&width=600&lines=CS+Student+%40+HEH+Mons%2C+Belgium;ETH+Oxford+2025+%26+2026;React+%7C+TypeScript+%7C+Solidity;Building+interfaces+that+feel+alive)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-> `◈` &nbsp;CS Student — HEH · Mons, Belgium
-> `◈` &nbsp;ETH Oxford **2025 & 2026** · Oxford University
-> `◈` &nbsp;UI/UX · Blockchain · Creative Dev
-> `◈` &nbsp;Cinéma · Skateboard · Montage vidéo
+```
+  CS Student          HEH · Mons, Belgium
+  ETH Oxford          2025 & 2026 · Oxford University
+  Focus               UI/UX · Blockchain · Creative Dev
+  Outside             Cinéma · Skateboard · Montage vidéo
+```
 
 <br/>
 
 ---
 
-### `▸ STACK`
+### STACK
 
-**Languages** &nbsp;
-![PHP](https://img.shields.io/badge/PHP-0d0d0d?style=flat-square&logo=php&logoColor=00e5ff)
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=ffd700)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=ffd700)
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=ff6655)
-![Solidity](https://img.shields.io/badge/Solidity-0d0d0d?style=flat-square&logo=solidity&logoColor=aaaaaa)
+**Languages**
+![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=5fc8e8)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ffffff)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=5fc8e8)
 
-**Frontend** &nbsp;
-![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=00e5ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=4488ff)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=ff6633)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=4488ff)
-![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=flat-square&logo=vite&logoColor=aa44ff)
+**Frontend**
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=5fc8e8)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=5fc8e8)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=ffffff)
 
-**Tools** &nbsp;
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=ff6633)
-![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=ffcc00)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=00e5ff)
-![Arduino](https://img.shields.io/badge/Arduino-0d0d0d?style=flat-square&logo=arduino&logoColor=00e5ff)
+**Tools**
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=5fc8e8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=5fc8e8)
 
 ---
 
-### `▸ STATS`
+### STATS
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=spidermiriki&show_icons=true&hide_border=false&border_color=00e5ff&bg_color=0d0d0d&title_color=00e5ff&icon_color=ff00aa&text_color=aaaaaa&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidermiriki&layout=compact&hide_border=false&border_color=00e5ff&bg_color=0d0d0d&title_color=00e5ff&text_color=aaaaaa&langs_count=6" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api?username=spidermiriki&show_icons=true&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&icon_color=5fc8e8&text_color=ffffff&count_private=true" />
+  <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spidermiriki&layout=compact&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&text_color=ffffff&langs_count=6" />
 </div>
 
 ---
 
-### `▸ PROJECTS`
+### PROJECTS
 
-| | Projet | Stack | |
-|:---:|---|---|:---:|
-| 🔐 | **Crypto Transaction System** | `Solidity` `Blockchain` `React` | [ETH Oxford 25/26 →](https://hugodvrs4.github.io/Lava-Payments) |
-| 🌐 | **Homepage** | `React 19` `TypeScript` `Vite` | [Live →](https://spidermiriki.github.io/Homepage/) |
-| 🎬 | **Melo's Studio** | `React` `Letterboxd API` | [Live →](https://spidermiriki.github.io/Melo-s-Studio/) |
-| 🎥 | **VideoConf Hub** | `React 19` `Firebase` `YouTube API` | [Live →](https://spidermiriki.github.io/VideoConf-Hub/) |
-| 📄 | **Portfolio** | `React 19` `TypeScript` | [Live →](https://spidermiriki.github.io/Portfolio/) |
+| Project | Stack | |
+|---|---|:---:|
+| **Crypto Transaction System** | `Solidity` `Blockchain` `React` | [ETH Oxford 25/26 →](https://hugodvrs4.github.io/Lava-Payments) |
+| **Homepage** | `React 19` `TypeScript` `Vite` | [Live →](https://spidermiriki.github.io/Homepage/) |
+| **Melo's Studio** | `React` `Letterboxd API` | [Live →](https://spidermiriki.github.io/Melo-s-Studio/) |
+| **VideoConf Hub** | `React 19` `Firebase` `YouTube API` | [Live →](https://spidermiriki.github.io/VideoConf-Hub/) |
+| **Portfolio** | `React 19` `TypeScript` | [Live →](https://spidermiriki.github.io/Portfolio/) |
 
 ---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=00e5ff)](https://spidermiriki.github.io/Portfolio/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://www.linkedin.com/in/derouck-homero)&nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/CV-0d0d0d?style=for-the-badge&logo=adobeacrobatreader&logoColor=ff00aa)](https://spidermiriki.github.io/CV/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=5fc8e8)](https://spidermiriki.github.io/Portfolio/)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=5fc8e8)](https://www.linkedin.com/in/derouck-homero)&nbsp;&nbsp;
+[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=5fc8e8)](https://spidermiriki.github.io/CV/)
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,55:0a1628,100:0a0a12&height=110&section=footer" />
+<br/>
+<img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=5fc8e8&height=3" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=40" />

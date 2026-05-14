@@ -1,7 +1,4 @@
 <img width="100%" src="./assets/header.svg" />
-<table width="100%" cellspacing="0" cellpadding="0"><tr>
-<td width="3" bgcolor="#5fc8e8"></td>
-<td>
 
 <br/>
 
@@ -76,9 +73,4 @@
 
 </div>
 
-<br/>
-
-</td>
-<td width="3" bgcolor="#5fc8e8"></td>
-</tr></table>
 <img width="100%" src="./assets/footer.svg" />

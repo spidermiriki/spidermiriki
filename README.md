@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/header.svg" />
+<img width="100%" src="./assets/header_v2.svg" />
 
 <br/>
 
@@ -75,4 +75,4 @@
 
 </div>
 
-<img width="100%" src="./assets/footer.svg" />
+<img width="100%" src="./assets/footer_v2.svg" />

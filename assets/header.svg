@@ -1,86 +1,93 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 193">
+  <style>
+    @keyframes twinkle {
+      0%, 62% { opacity: 1; }
+      63%, 100% { opacity: 0; }
+    }
+  </style>
+
   <!-- Black background -->
   <rect width="800" height="130" fill="#000000"/>
   <!-- Blue separator line at bottom -->
   <rect y="130" width="800" height="3" fill="#5fc8e8"/>
 
-  <!-- TOP STRIP (y: 3–42) -->
-  <circle cx="12" cy="8" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="1.8s" begin="0s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="45" cy="14" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.55" dur="2.2s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="88" cy="6" r="1.5" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="1.6s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="120" cy="22" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.58" dur="2.4s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="165" cy="10" r="1.3" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="1.9s" begin="0.6s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="210" cy="30" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="2.1s" begin="1.0s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="255" cy="8" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.60" dur="1.7s" begin="0.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="300" cy="20" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="2.3s" begin="0.7s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="340" cy="12" r="1.4" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.55" dur="1.5s" begin="1.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="380" cy="28" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="2.0s" begin="0.1s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="420" cy="7" r="1.1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.63" dur="2.5s" begin="0.5s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="460" cy="18" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="1.8s" begin="0.9s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="500" cy="25" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.58" dur="2.2s" begin="0.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="540" cy="11" r="1.5" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="1.6s" begin="1.1s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="580" cy="22" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="2.4s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="615" cy="8" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.60" dur="1.9s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="650" cy="16" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="2.1s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="685" cy="28" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="1.7s" begin="0.6s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="720" cy="10" r="1.1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="2.3s" begin="1.0s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="752" cy="18" r="1.4" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="1.5s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="780" cy="6" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.58" dur="2.0s" begin="0.7s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="792" cy="30" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="1.8s" begin="1.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="35" cy="35" r="1.1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="2.2s" begin="0.5s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="150" cy="38" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.60" dur="1.6s" begin="0.9s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="390" cy="36" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="2.4s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="600" cy="34" r="1.2" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="1.9s" begin="0.6s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="730" cy="40" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="2.1s" begin="1.1s" repeatCount="indefinite" calcMode="discrete"/></circle>
+  <!-- TOP STRIP -->
+  <circle cx="12" cy="8" r="1.2" fill="#ffffff" style="animation: twinkle 1.8s 0s infinite"/>
+  <circle cx="45" cy="14" r="1" fill="#5fc8e8" style="animation: twinkle 2.2s 0.4s infinite"/>
+  <circle cx="88" cy="6" r="1.5" fill="#ffffff" style="animation: twinkle 1.6s 0.8s infinite"/>
+  <circle cx="120" cy="22" r="1" fill="#ffffff" style="animation: twinkle 2.4s 0.2s infinite"/>
+  <circle cx="165" cy="10" r="1.3" fill="#5fc8e8" style="animation: twinkle 1.9s 0.6s infinite"/>
+  <circle cx="210" cy="30" r="1" fill="#ffffff" style="animation: twinkle 2.1s 1.0s infinite"/>
+  <circle cx="255" cy="8" r="1.2" fill="#ffffff" style="animation: twinkle 1.7s 0.3s infinite"/>
+  <circle cx="300" cy="20" r="1" fill="#5fc8e8" style="animation: twinkle 2.3s 0.7s infinite"/>
+  <circle cx="340" cy="12" r="1.4" fill="#ffffff" style="animation: twinkle 1.5s 1.2s infinite"/>
+  <circle cx="380" cy="28" r="1" fill="#ffffff" style="animation: twinkle 2.0s 0.1s infinite"/>
+  <circle cx="420" cy="7" r="1.1" fill="#5fc8e8" style="animation: twinkle 2.5s 0.5s infinite"/>
+  <circle cx="460" cy="18" r="1.3" fill="#ffffff" style="animation: twinkle 1.8s 0.9s infinite"/>
+  <circle cx="500" cy="25" r="1" fill="#ffffff" style="animation: twinkle 2.2s 0.3s infinite"/>
+  <circle cx="540" cy="11" r="1.5" fill="#5fc8e8" style="animation: twinkle 1.6s 1.1s infinite"/>
+  <circle cx="580" cy="22" r="1" fill="#ffffff" style="animation: twinkle 2.4s 0.4s infinite"/>
+  <circle cx="615" cy="8" r="1.2" fill="#ffffff" style="animation: twinkle 1.9s 0.8s infinite"/>
+  <circle cx="650" cy="16" r="1" fill="#5fc8e8" style="animation: twinkle 2.1s 0.2s infinite"/>
+  <circle cx="685" cy="28" r="1.3" fill="#ffffff" style="animation: twinkle 1.7s 0.6s infinite"/>
+  <circle cx="720" cy="10" r="1.1" fill="#ffffff" style="animation: twinkle 2.3s 1.0s infinite"/>
+  <circle cx="752" cy="18" r="1.4" fill="#5fc8e8" style="animation: twinkle 1.5s 0.4s infinite"/>
+  <circle cx="780" cy="6" r="1.2" fill="#ffffff" style="animation: twinkle 2.0s 0.7s infinite"/>
+  <circle cx="792" cy="30" r="1" fill="#ffffff" style="animation: twinkle 1.8s 1.3s infinite"/>
+  <circle cx="35" cy="35" r="1.1" fill="#5fc8e8" style="animation: twinkle 2.2s 0.5s infinite"/>
+  <circle cx="150" cy="38" r="1.3" fill="#ffffff" style="animation: twinkle 1.6s 0.9s infinite"/>
+  <circle cx="390" cy="36" r="1" fill="#ffffff" style="animation: twinkle 2.4s 0.2s infinite"/>
+  <circle cx="600" cy="34" r="1.2" fill="#5fc8e8" style="animation: twinkle 1.9s 0.6s infinite"/>
+  <circle cx="730" cy="40" r="1" fill="#ffffff" style="animation: twinkle 2.1s 1.1s infinite"/>
 
-  <!-- BOTTOM STRIP (y: 88–127) -->
-  <circle cx="18" cy="95" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="1.7s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="60" cy="108" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="2.3s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="100" cy="120" r="1.4" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="1.9s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="145" cy="97" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.58" dur="2.0s" begin="1.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="190" cy="112" r="1.3" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.60" dur="1.6s" begin="0.5s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="235" cy="105" r="1.1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="2.4s" begin="0.9s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="270" cy="122" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="1.8s" begin="0.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="310" cy="98" r="1.5" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="2.1s" begin="0.7s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="355" cy="115" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="1.7s" begin="1.1s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="400" cy="107" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="2.3s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="445" cy="125" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="1.9s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="490" cy="100" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.58" dur="2.0s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="535" cy="118" r="1.1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="1.6s" begin="1.0s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="575" cy="108" r="1.4" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="2.2s" begin="0.5s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="610" cy="122" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="1.8s" begin="0.9s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="648" cy="97" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="2.4s" begin="0.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="688" cy="112" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="1.7s" begin="0.7s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="725" cy="102" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="2.1s" begin="1.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="758" cy="118" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.58" dur="1.9s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="785" cy="95" r="1.5" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="2.3s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="22" cy="118" r="1.1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="1.6s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="75" cy="92" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="2.0s" begin="0.6s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="320" cy="93" r="1.2" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="1.8s" begin="1.0s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="468" cy="120" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="2.4s" begin="0.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="545" cy="93" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="1.7s" begin="0.9s" repeatCount="indefinite" calcMode="discrete"/></circle>
+  <!-- BOTTOM STRIP -->
+  <circle cx="18" cy="95" r="1.2" fill="#ffffff" style="animation: twinkle 1.7s 0.4s infinite"/>
+  <circle cx="60" cy="108" r="1" fill="#5fc8e8" style="animation: twinkle 2.3s 0.8s infinite"/>
+  <circle cx="100" cy="120" r="1.4" fill="#ffffff" style="animation: twinkle 1.9s 0.2s infinite"/>
+  <circle cx="145" cy="97" r="1" fill="#ffffff" style="animation: twinkle 2.0s 1.2s infinite"/>
+  <circle cx="190" cy="112" r="1.3" fill="#5fc8e8" style="animation: twinkle 1.6s 0.5s infinite"/>
+  <circle cx="235" cy="105" r="1.1" fill="#ffffff" style="animation: twinkle 2.4s 0.9s infinite"/>
+  <circle cx="270" cy="122" r="1" fill="#ffffff" style="animation: twinkle 1.8s 0.3s infinite"/>
+  <circle cx="310" cy="98" r="1.5" fill="#5fc8e8" style="animation: twinkle 2.1s 0.7s infinite"/>
+  <circle cx="355" cy="115" r="1" fill="#ffffff" style="animation: twinkle 1.7s 1.1s infinite"/>
+  <circle cx="400" cy="107" r="1.2" fill="#ffffff" style="animation: twinkle 2.3s 0.4s infinite"/>
+  <circle cx="445" cy="125" r="1" fill="#5fc8e8" style="animation: twinkle 1.9s 0.8s infinite"/>
+  <circle cx="490" cy="100" r="1.3" fill="#ffffff" style="animation: twinkle 2.0s 0.2s infinite"/>
+  <circle cx="535" cy="118" r="1.1" fill="#ffffff" style="animation: twinkle 1.6s 1.0s infinite"/>
+  <circle cx="575" cy="108" r="1.4" fill="#5fc8e8" style="animation: twinkle 2.2s 0.5s infinite"/>
+  <circle cx="610" cy="122" r="1" fill="#ffffff" style="animation: twinkle 1.8s 0.9s infinite"/>
+  <circle cx="648" cy="97" r="1.2" fill="#ffffff" style="animation: twinkle 2.4s 0.3s infinite"/>
+  <circle cx="688" cy="112" r="1" fill="#5fc8e8" style="animation: twinkle 1.7s 0.7s infinite"/>
+  <circle cx="725" cy="102" r="1.3" fill="#ffffff" style="animation: twinkle 2.1s 1.2s infinite"/>
+  <circle cx="758" cy="118" r="1" fill="#ffffff" style="animation: twinkle 1.9s 0.4s infinite"/>
+  <circle cx="785" cy="95" r="1.5" fill="#5fc8e8" style="animation: twinkle 2.3s 0.8s infinite"/>
+  <circle cx="22" cy="118" r="1.1" fill="#ffffff" style="animation: twinkle 1.6s 0.2s infinite"/>
+  <circle cx="75" cy="92" r="1" fill="#ffffff" style="animation: twinkle 2.0s 0.6s infinite"/>
+  <circle cx="320" cy="93" r="1.2" fill="#5fc8e8" style="animation: twinkle 1.8s 1.0s infinite"/>
+  <circle cx="468" cy="120" r="1" fill="#ffffff" style="animation: twinkle 2.4s 0.3s infinite"/>
+  <circle cx="545" cy="93" r="1.3" fill="#ffffff" style="animation: twinkle 1.7s 0.9s infinite"/>
 
-  <!-- LEFT SIDE of text zone (x: 5–145, y: 43–87) -->
-  <circle cx="15" cy="55" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="2.1s" begin="0.5s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="42" cy="68" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="1.8s" begin="1.1s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="78" cy="48" r="1.4" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="2.3s" begin="0.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="110" cy="75" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.60" dur="1.6s" begin="0.7s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="130" cy="58" r="1.1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="2.0s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="25" cy="82" r="1.3" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="1.9s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="60" cy="87" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="2.2s" begin="1.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="95" cy="65" r="1.2" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.58" dur="1.7s" begin="0.4s" repeatCount="indefinite" calcMode="discrete"/></circle>
+  <!-- LEFT SIDE -->
+  <circle cx="15" cy="55" r="1.2" fill="#ffffff" style="animation: twinkle 2.1s 0.5s infinite"/>
+  <circle cx="42" cy="68" r="1" fill="#5fc8e8" style="animation: twinkle 1.8s 1.1s infinite"/>
+  <circle cx="78" cy="48" r="1.4" fill="#ffffff" style="animation: twinkle 2.3s 0.3s infinite"/>
+  <circle cx="110" cy="75" r="1" fill="#ffffff" style="animation: twinkle 1.6s 0.7s infinite"/>
+  <circle cx="130" cy="58" r="1.1" fill="#5fc8e8" style="animation: twinkle 2.0s 0.2s infinite"/>
+  <circle cx="25" cy="82" r="1.3" fill="#ffffff" style="animation: twinkle 1.9s 0.8s infinite"/>
+  <circle cx="60" cy="87" r="1" fill="#ffffff" style="animation: twinkle 2.2s 1.4s infinite"/>
+  <circle cx="95" cy="65" r="1.2" fill="#5fc8e8" style="animation: twinkle 1.7s 0.4s infinite"/>
 
-  <!-- RIGHT SIDE of text zone (x: 660–795, y: 43–87) -->
-  <circle cx="670" cy="52" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.70" dur="2.1s" begin="0.6s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="695" cy="68" r="1.3" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.62" dur="1.8s" begin="1.0s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="718" cy="46" r="1.1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.75" dur="2.3s" begin="0.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="745" cy="75" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.60" dur="1.6s" begin="0.8s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="770" cy="58" r="1.4" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.68" dur="2.0s" begin="0.2s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="760" cy="85" r="1" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="1.9s" begin="0.7s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="790" cy="48" r="1.2" fill="#ffffff"><animate attributeName="opacity" values="1;0" keyTimes="0;0.65" dur="2.2s" begin="1.3s" repeatCount="indefinite" calcMode="discrete"/></circle>
-  <circle cx="680" cy="82" r="1" fill="#5fc8e8"><animate attributeName="opacity" values="1;0" keyTimes="0;0.72" dur="1.7s" begin="0.5s" repeatCount="indefinite" calcMode="discrete"/></circle>
+  <!-- RIGHT SIDE -->
+  <circle cx="670" cy="52" r="1" fill="#ffffff" style="animation: twinkle 2.1s 0.6s infinite"/>
+  <circle cx="695" cy="68" r="1.3" fill="#5fc8e8" style="animation: twinkle 1.8s 1.0s infinite"/>
+  <circle cx="718" cy="46" r="1.1" fill="#ffffff" style="animation: twinkle 2.3s 0.3s infinite"/>
+  <circle cx="745" cy="75" r="1" fill="#ffffff" style="animation: twinkle 1.6s 0.8s infinite"/>
+  <circle cx="770" cy="58" r="1.4" fill="#5fc8e8" style="animation: twinkle 2.0s 0.2s infinite"/>
+  <circle cx="760" cy="85" r="1" fill="#ffffff" style="animation: twinkle 1.9s 0.7s infinite"/>
+  <circle cx="790" cy="48" r="1.2" fill="#ffffff" style="animation: twinkle 2.2s 1.3s infinite"/>
+  <circle cx="680" cy="82" r="1" fill="#5fc8e8" style="animation: twinkle 1.7s 0.5s infinite"/>
 
-  <!-- CORNER HOOKS going down (transparent middle, only sides filled) -->
+  <!-- CORNER HOOKS going down -->
   <rect x="0" y="133" width="3" height="60" fill="#5fc8e8"/>
   <rect x="797" y="133" width="3" height="60" fill="#5fc8e8"/>
 

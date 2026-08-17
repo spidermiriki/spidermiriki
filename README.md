@@ -62,6 +62,8 @@
 | **Melo's Studio** | `React` `Letterboxd API` | [Live →](https://spidermiriki.github.io/Melo-s-Studio/) |
 | **VideoConf Hub** | `React 19` `Firebase` `YouTube API` | [Live →](https://spidermiriki.github.io/VideoConf-Hub/) |
 | **Portfolio** | `React 19` `TypeScript` | [Live →](https://spidermiriki.github.io/Portfolio/) |
+| **Quiz** | `React 19` `Firebase` `Vite` | [Live →](https://spidermiriki.github.io/quiz/) |
+| **Evolution Marine** | `Godot 4` `GDScript` | [GitHub →](https://github.com/spidermiriki/evolution-marine) |
 
 ---
 

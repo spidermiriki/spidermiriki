@@ -47,8 +47,8 @@
 ### STATS
 
 <div align="center">
-  <img height="158" src="https://github-readme-stats-three-ruddy-26.vercel.app/api?username=spidermiriki&show_icons=true&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&icon_color=5fc8e8&text_color=ffffff&count_private=true&cache_seconds=1800" />
-  <img height="158" src="https://github-readme-stats-three-ruddy-26.vercel.app/api/top-langs/?username=spidermiriki&layout=compact&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&text_color=ffffff&langs_count=6&cache_seconds=1800" />
+  <img height="158" src="https://github-stats-extended.vercel.app/api?username=spidermiriki&show_icons=true&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&icon_color=5fc8e8&text_color=ffffff&count_private=true&cache_seconds=1800" />
+  <img height="158" src="https://github-stats-extended.vercel.app/api/top-langs/?username=spidermiriki&layout=compact&hide_border=false&border_color=5fc8e8&bg_color=000000&title_color=5fc8e8&text_color=ffffff&langs_count=6&cache_seconds=1800" />
 </div>
 
 ---

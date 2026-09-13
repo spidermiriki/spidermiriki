@@ -25,25 +25,25 @@
 
 **Languages**
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=5fc8e8)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=5fc8e8)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=5fc8e8)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=5fc8e8)
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=5fc8e8)
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=5fc8e8)
 ![C](https://img.shields.io/badge/C-000000?style=flat-square)
 ![GDScript](https://img.shields.io/badge/GDScript-000000?style=flat-square)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=5fc8e8)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=5fc8e8)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=5fc8e8)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=5fc8e8)
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=5fc8e8)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=5fc8e8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=5fc8e8)
-![Godot](https://img.shields.io/badge/Godot-000000?style=flat-square&logo=godot-engine&logoColor=00eeff)
+![Godot](https://img.shields.io/badge/Godot-000000?style=flat-square&logo=godot-engine&logoColor=5fc8e8)
 
 ---
 

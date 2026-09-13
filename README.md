@@ -36,7 +36,7 @@
 **Frontend**
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=5fc8e8)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=5fc8e8)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=5fc8e8)
+![CSS3](https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css&logoColor=5fc8e8)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=5fc8e8)
 
 **Tools**

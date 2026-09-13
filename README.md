@@ -43,6 +43,7 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=5fc8e8)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=5fc8e8)
+![Godot](https://img.shields.io/badge/Godot-000000?style=flat-square&logo=godot-engine&logoColor=00eeff)
 
 ---
 

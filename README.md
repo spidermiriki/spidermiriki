@@ -74,7 +74,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=5fc8e8)](https://spidermiriki.github.io/Portfolio/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=5fc8e8)](https://www.linkedin.com/in/derouck-homero)&nbsp;&nbsp;
-![CV](https://img.shields.io/badge/CV-000000?style=flat-square&logo=readdotcv&logoColor=5fc8e8)&nbsp;&nbsp;
+[![CV](https://img.shields.io/badge/CV-000000?style=for-the-badge&logo=readdotcv&logoColor=5fc8e8)](https://spidermiriki.github.io/CV/)&nbsp;&nbsp;
 
 
 </div>

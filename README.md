@@ -27,12 +27,14 @@
 ![PHP](https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=5fc8e8)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=5fc8e8)
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![Solidity](https://img.shields.io/badge/Solidity-000000?style=flat-square&logo=solidity&logoColor=5fc8e8)
+![C](https://img.shields.io/badge/C-000000?style=flat-square)
+![GDScript](https://img.shields.io/badge/GDScript-000000?style=flat-square)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=5fc8e8)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=5fc8e8)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=ffffff)
 ![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=ffffff)
